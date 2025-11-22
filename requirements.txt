@@ -1,0 +1,8 @@
+gradio
+groq
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+pymupdf
+numpy
+pypdf
